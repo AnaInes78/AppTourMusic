@@ -1,0 +1,17 @@
+[
+    {
+        "id_visita": 1,
+        "nombre": "Recital Los Huayra",
+        "id_ubicacion": 1
+    },
+    {
+        "id_visita": 2,
+        "nombre": "Recital Daniel Agostini Buenos Aires",
+        "id_ubicacion": 2
+    },
+    {
+        "id_visita": 3,
+        "nombre": "Lula Paluza",
+        "id_ubicacion": 5
+    }
+]

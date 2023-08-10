@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Luis Miguel",
+        "artista": "Luis Miguel",
+        "genero": "Pop",
+        "id_ubicacion": 1,
+        "fecha":"3 de Agosto",
+        "hora_inicio": "20:00",
+        "hora_fin": "23:50",
+        "descripcion": "Recital de Luis Miguel en Movistar Arenas, 3 de agosto al 16 de septiembre",
+        "imagen": "image_1.png"
+    },
+    {   "nombre": "Daniel Agostini Buenos Aires ",
+        "artista": "Daniel Agostni",
+        "genero": "Cumbia",
+        "id_ubicacion": 2,
+        "fecha":"10 de setiembre",
+        "hora_inicio": "20:00",
+        "hora_fin": "23:50",
+        "descripcion": "Recital de Daniel Agostini en el teatro Gran Rex, Buenos Aires",
+        "imagen": "image_2.png"
+    },
+    {   "nombre": "Julieta Venegas",
+        "artista": "Julieta Venegas",
+        "genero": "Pop",
+        "id_ubicacion": 3,
+        "fecha":"26 de Agosto",
+        "hora_inicio": "20:30",
+        "hora_fin": "00:00",
+        "descripcion": "Recital de Julieta Venegas, en el Teatro Gran Rex Av. Corrientes ...",
+        "imagen": "image_3.png"
+    },
+    {
+        "nombre": "Red Hot Chili Peppers",
+        "artista": "Red Hot Chili Peppers",
+        "genero": "Rock",
+        "id_ubicacion": 4,
+        "fecha":"26 y 27 de noviembre ",
+        "hora_inicio": "20:00",
+        "hora_fin": "23:50",
+        "descripcion": "Recital de Red Hot Chili Peppers en el estadio Mas Monumental, Av. Pres. Figueroa Alcorta 7597, Buenos Aires ",
+        "imagen": "image_4.png"
+    
+    },
+    {
+        "nombre": "The Weeknd",
+        "artista": "The Weeknd",
+        "genero": "Dance/Electónica",
+        "id_ubicacion": 5,
+        "fecha":"13 de Octubre",
+        "hora_inicio": "17:00",
+        "hora_fin": "23:00",
+        "descripcion": "Recital de The Weeknd en el Hipodromo de San Isidro, Av. Marquez 700",
+        "imagen": "image_5.png"
+    },
+    {
+        "nombre": "Victor Heredia",
+        "artista": "Victor Heredia",
+        "genero": "Pop",
+        "id_ubicacion": 6,
+        "fecha":"23 de Septiembre",
+        "hora_inicio": "20:30",
+        "hora_fin": "23:50",
+        "descripcion": "Recital de Victor Heredia en el Teatro Opera, Av. Corrientes 860 Buenos Aires",
+        "imagen": "image_6.png"
+    }
+]

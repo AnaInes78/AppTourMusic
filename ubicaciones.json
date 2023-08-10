@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "latitud": -34.594054009667246, 
+        "longitud":-58.44801557118587,
+        "direccion": "Humboldt 450, C1414 CABA"
+    },
+    {
+        "id" : 2,
+        "latitud": -34.603312237051846, 
+        "longitud": -58.378823684693614,
+        "direccion": "Av. Corrientes 857, C1043AAI, C1043AAI CABA"
+    },
+    {
+        "id" : 3,
+        "latitud": -34.603312237051846,
+        "longitud": -58.378823684693720,
+        "direccion": "Av. Corrientes 857, C1043AAI, C1043AAI CABA"
+    },
+    {
+        "id" : 4,
+        "latitud": -34.54517806196129,
+        "longitud":  -58.44976417117449,
+        "direccion": "Av. Pres. Figueroa Alcorta 7597, C1428 CABA"
+    },
+    {
+        "id" : 5,
+        "latitud": -34.4803862985102, 
+        "longitud": -58.52075229999409,
+        "direccion": "Av. Bernabé Márquez 700, B1642 San Isidro, Provincia de Buenos Aires"
+    },
+    {
+        "id" : 6,
+        "latitud": -34.60370252863339, 
+        "longitud": -58.3789153847426,
+        "direccion": "Av. Corrientes 860, C1043 CABA"
+    }
+]

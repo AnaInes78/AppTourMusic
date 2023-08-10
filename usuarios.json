@@ -1,0 +1,20 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Ana ",
+        "Apellido": "Fernández ",
+        "historial_eventos":[1, 2, 3]
+    },
+    {   "id_usuario": 2,
+        "nombre": "Pedro ",
+        "Apellido": "Canoero ",
+        "historial_eventos":[1,3] 
+    },
+    {   "id_usuario": 3,
+        "nombre": "Agustín",
+        "Apellido": "Guzmám ",
+        "historial_eventos":[3] 
+    
+    }
+
+]
